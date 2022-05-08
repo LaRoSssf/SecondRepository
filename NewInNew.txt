@@ -1,1 +1,3 @@
-Fail add in New branch
+Fail add in New branch/
+
+Change in New branch. For Delete branch without megre with main.
